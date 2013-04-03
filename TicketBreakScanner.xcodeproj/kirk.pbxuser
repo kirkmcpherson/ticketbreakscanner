@@ -1,0 +1,375 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* TicketBreakScannerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1075, 458}}";
+			sepNavSelRange = "{238, 0}";
+			sepNavVisRange = "{0, 869}";
+			sepNavWindowFrame = "{{15, 53}, {750, 821}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* TicketBreakScannerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2098, 1456}}";
+			sepNavSelRange = "{2512, 0}";
+			sepNavVisRange = "{1238, 2818}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* TicketBreakScanner */ = {
+		activeExec = 0;
+		executables = (
+			4AB10366141518D9004C48BA /* TicketBreakScanner */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* TicketBreakScannerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1075, 572}}";
+			sepNavSelRange = "{495, 0}";
+			sepNavVisRange = "{174, 1013}";
+			sepNavWindowFrame = "{{1536, -4}, {750, 821}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* TicketBreakScannerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1286, 3575}}";
+			sepNavSelRange = "{1924, 118}";
+			sepNavVisRange = "{0, 1139}";
+			sepNavWindowFrame = "{{330, 36}, {750, 821}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 4AB10366141518D9004C48BA /* TicketBreakScanner */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TicketBreakScanner */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* TicketBreakScanner */,
+		);
+		codeSenseManager = 4AB10373141518E5004C48BA /* Code sense */;
+		executables = (
+			4AB10366141518D9004C48BA /* TicketBreakScanner */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					897,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 343189209;
+			PBXWorkspaceStateSaveDate = 343189209;
+		};
+		perUserProjectItems = {
+			4A296E111477315C00FF01F4 /* PBXTextBookmark */ = 4A296E111477315C00FF01F4 /* PBXTextBookmark */;
+			4A296E121477315C00FF01F4 /* PBXTextBookmark */ = 4A296E121477315C00FF01F4 /* PBXTextBookmark */;
+			4A296E131477315C00FF01F4 /* PBXTextBookmark */ = 4A296E131477315C00FF01F4 /* PBXTextBookmark */;
+			4A296E141477315C00FF01F4 /* PBXTextBookmark */ = 4A296E141477315C00FF01F4 /* PBXTextBookmark */;
+			4A296E151477315C00FF01F4 /* PBXTextBookmark */ = 4A296E151477315C00FF01F4 /* PBXTextBookmark */;
+			4A296E161477315C00FF01F4 /* PBXTextBookmark */ = 4A296E161477315C00FF01F4 /* PBXTextBookmark */;
+			4A296E171477315C00FF01F4 /* PBXTextBookmark */ = 4A296E171477315C00FF01F4 /* PBXTextBookmark */;
+			4A6B6CBE1429306C008F473F /* PlistBookmark */ = 4A6B6CBE1429306C008F473F /* PlistBookmark */;
+			4A6B6CBF1429306C008F473F /* PBXTextBookmark */ = 4A6B6CBF1429306C008F473F /* PBXTextBookmark */;
+			4A6B6CC11429306C008F473F /* PBXTextBookmark */ = 4A6B6CC11429306C008F473F /* PBXTextBookmark */;
+			4A6B6CC21429306C008F473F /* PBXTextBookmark */ = 4A6B6CC21429306C008F473F /* PBXTextBookmark */;
+			4A6B6CC51429306C008F473F /* PBXTextBookmark */ = 4A6B6CC51429306C008F473F /* PBXTextBookmark */;
+			4A6B6CC71429306C008F473F /* PlistBookmark */ = 4A6B6CC71429306C008F473F /* PlistBookmark */;
+			4AB1054D141835F1004C48BA /* PBXTextBookmark */ = 4AB1054D141835F1004C48BA /* PBXTextBookmark */;
+			4AB107D3142047B8004C48BA /* PBXTextBookmark */ = 4AB107D3142047B8004C48BA /* PBXTextBookmark */;
+		};
+		sourceControlManager = 4AB10372141518E5004C48BA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* TicketBreakScanner_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {768, 222}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 205}";
+		};
+	};
+	4A296E111477315C00FF01F4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4AB10693141D3348004C48BA /* ViewBarcodesTableViewController.m */;
+		name = "ViewBarcodesTableViewController.m: 26";
+		rLen = 0;
+		rLoc = 474;
+		rType = 0;
+		vrLen = 744;
+		vrLoc = 218;
+	};
+	4A296E121477315C00FF01F4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4AB103A214152042004C48BA /* SelectEventTableViewController.m */;
+		name = "SelectEventTableViewController.m: 90";
+		rLen = 0;
+		rLoc = 2536;
+		rType = 0;
+		vrLen = 1258;
+		vrLoc = 2196;
+	};
+	4A296E131477315C00FF01F4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TicketBreakScannerViewController.m */;
+		name = "TicketBreakScannerViewController.m: 58";
+		rLen = 118;
+		rLoc = 1924;
+		rType = 0;
+		vrLen = 1139;
+		vrLoc = 0;
+	};
+	4A296E141477315C00FF01F4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4AB10692141D3348004C48BA /* ViewBarcodesTableViewController.h */;
+		name = "ViewBarcodesTableViewController.h: 11";
+		rLen = 0;
+		rLoc = 217;
+		rType = 0;
+		vrLen = 372;
+		vrLoc = 0;
+	};
+	4A296E151477315C00FF01F4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4AB1050514170921004C48BA /* ScanTicketViewController.h */;
+		name = "ScanTicketViewController.h: 31";
+		rLen = 0;
+		rLoc = 739;
+		rType = 0;
+		vrLen = 813;
+		vrLoc = 0;
+	};
+	4A296E161477315C00FF01F4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4AB1050614170921004C48BA /* ScanTicketViewController.m */;
+		name = "ScanTicketViewController.m: 27";
+		rLen = 0;
+		rLoc = 672;
+		rType = 0;
+		vrLen = 1176;
+		vrLoc = 7344;
+	};
+	4A296E171477315C00FF01F4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4AB1050614170921004C48BA /* ScanTicketViewController.m */;
+		name = "ScanTicketViewController.m: 265";
+		rLen = 0;
+		rLoc = 8073;
+		rType = 0;
+		vrLen = 1042;
+		vrLoc = 8100;
+	};
+	4A6B6C6C14292851008F473F /* TicketBreakScannerAppDelegate.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = TicketBreakScannerAppDelegate.m;
+		path = /Users/kirk/Documents/Projects/TicketBreakScanner/Classes/TicketBreakScannerAppDelegate.m;
+		sourceTree = "<absolute>";
+	};
+	4A6B6CBE1429306C008F473F /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* TicketBreakScanner-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/kirk/Documents/Projects/TicketBreakScanner/TicketBreakScanner-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	4A6B6CBF1429306C008F473F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A6B6CC01429306C008F473F /* Root.strings */;
+		name = "Root.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 272;
+		vrLoc = 0;
+	};
+	4A6B6CC01429306C008F473F /* Root.strings */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.plist.strings;
+		name = Root.strings;
+		path = /Users/kirk/Documents/Projects/TicketBreakScanner/Settings.bundle/en.lproj/Root.strings;
+		sourceTree = "<absolute>";
+	};
+	4A6B6CC11429306C008F473F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A6B6C6C14292851008F473F /* TicketBreakScannerAppDelegate.m */;
+		name = "TicketBreakScannerAppDelegate.m: 32";
+		rLen = 8;
+		rLoc = 887;
+		rType = 0;
+		vrLen = 1393;
+		vrLoc = 302;
+	};
+	4A6B6CC21429306C008F473F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4AB103A114152042004C48BA /* SelectEventTableViewController.h */;
+		name = "SelectEventTableViewController.h: 36";
+		rLen = 0;
+		rLoc = 961;
+		rType = 0;
+		vrLen = 984;
+		vrLoc = 0;
+	};
+	4A6B6CC51429306C008F473F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TicketBreakScannerViewController.h */;
+		name = "TicketBreakScannerViewController.h: 18";
+		rLen = 0;
+		rLoc = 495;
+		rType = 0;
+		vrLen = 1013;
+		vrLoc = 174;
+	};
+	4A6B6CC71429306C008F473F /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 4AB10600141C1A94004C48BA /* Root.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			PreferenceSpecifiers,
+			3,
+			DefaultValue,
+		);
+		name = /Users/kirk/Documents/Projects/TicketBreakScanner/Settings.bundle/Root.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	4AB10366141518D9004C48BA /* TicketBreakScanner */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TicketBreakScanner;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	4AB10372141518E5004C48BA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	4AB10373141518E5004C48BA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4AB103A114152042004C48BA /* SelectEventTableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1075, 533}}";
+			sepNavSelRange = "{961, 0}";
+			sepNavVisRange = "{0, 984}";
+			sepNavWindowFrame = "{{163, -22}, {750, 821}}";
+		};
+	};
+	4AB103A214152042004C48BA /* SelectEventTableViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = \"CGFloat width\";\n            r = \"{990, 17}\";\n            s = 1;\n        },\n                {\n            l = \"CGFloat height\";\n            r = \"{1009, 18}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{11133, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{11184, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{11234, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 12097}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1286, 5434}}";
+			sepNavSelRange = "{2503, 0}";
+			sepNavVisRange = "{2163, 1258}";
+			sepNavWindowFrame = "{{257, 54}, {750, 821}}";
+		};
+	};
+	4AB1050514170921004C48BA /* ScanTicketViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1075, 780}}";
+			sepNavSelRange = "{739, 0}";
+			sepNavVisRange = "{0, 813}";
+			sepNavWindowFrame = "{{15, 56}, {750, 821}}";
+		};
+	};
+	4AB1050614170921004C48BA /* ScanTicketViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1174, 5655}}";
+			sepNavSelRange = "{7938, 0}";
+			sepNavVisRange = "{7646, 544}";
+		};
+	};
+	4AB1054D141835F1004C48BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* TicketBreakScanner_Prefix.pch */;
+		name = "TicketBreakScanner_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 205;
+		vrLoc = 0;
+	};
+	4AB10600141C1A94004C48BA /* Root.plist */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.plist.xml;
+		name = Root.plist;
+		path = /Users/kirk/Documents/Projects/TicketBreakScanner/Settings.bundle/Root.plist;
+		sourceTree = "<absolute>";
+	};
+	4AB10692141D3348004C48BA /* ViewBarcodesTableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1075, 494}}";
+			sepNavSelRange = "{217, 0}";
+			sepNavVisRange = "{0, 372}";
+		};
+	};
+	4AB10693141D3348004C48BA /* ViewBarcodesTableViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{5727, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{5778, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{5828, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 6556}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1075, 3224}}";
+			sepNavSelRange = "{474, 0}";
+			sepNavVisRange = "{218, 744}";
+		};
+	};
+	4AB107D3142047B8004C48BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TicketBreakScannerAppDelegate.h */;
+		name = "TicketBreakScannerAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 238;
+		rType = 0;
+		vrLen = 869;
+		vrLoc = 0;
+	};
+	8D1107310486CEB800E47090 /* TicketBreakScanner-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 61}, {750, 817}}";
+		};
+	};
+}

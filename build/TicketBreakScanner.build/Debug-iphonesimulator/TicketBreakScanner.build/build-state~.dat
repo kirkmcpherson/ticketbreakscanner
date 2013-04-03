@@ -1,0 +1,256 @@
+TTicketBreakScanner
+v7
+r0
+t336927084.103335
+cCheck dependencies
+cProcessInfoPlistFile /Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app/Info.plist TicketBreakScanner-Info.plist
+cCompileXIB /Users/kirk/Documents/Projects/TicketBreakScanner/MainWindow.xib
+cCompileXIB /Users/kirk/Documents/Projects/TicketBreakScanner/TicketBreakScannerViewController.xib
+cProcessPCH /var/folders/UC/UCNl4HGDF0CHuuQrqLmmfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TicketBreakScanner_Prefix-cpzqkpxpvifznadyppfrdcuperbr/TicketBreakScanner_Prefix.pch.gch TicketBreakScanner_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/Objects-normal/i386/main.o /Users/kirk/Documents/Projects/TicketBreakScanner/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/Objects-normal/i386/TicketBreakScannerAppDelegate.o /Users/kirk/Documents/Projects/TicketBreakScanner/Classes/TicketBreakScannerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/Objects-normal/i386/TicketBreakScannerViewController.o /Users/kirk/Documents/Projects/TicketBreakScanner/Classes/TicketBreakScannerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app/TicketBreakScanner normal i386
+cGenerateDSYMFile /Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app.dSYM /Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app/TicketBreakScanner
+cTouch /Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/kirk/Documents/Projects/TicketBreakScanner/Classes/TicketBreakScannerAppDelegate.h
+c000000004E64E1590000000000000224
+t1315234137
+s548
+i<UIKit/UIKit.h>
+
+N/Users/kirk/Documents/Projects/TicketBreakScanner/Classes/TicketBreakScannerAppDelegate.m
+c000000004E64E1590000000000000AE4
+t1315234137
+s2788
+i"TicketBreakScannerAppDelegate.h"
+i"TicketBreakScannerViewController.h"
+
+N/Users/kirk/Documents/Projects/TicketBreakScanner/Classes/TicketBreakScannerViewController.h
+c000000004E64E1590000000000000112
+t1315234137
+s274
+i<UIKit/UIKit.h>
+
+N/Users/kirk/Documents/Projects/TicketBreakScanner/Classes/TicketBreakScannerViewController.m
+c000000004E64E15900000000000005F0
+t1315234137
+s1520
+i"TicketBreakScannerViewController.h"
+
+N/Users/kirk/Documents/Projects/TicketBreakScanner/MainWindow.xib
+c000000004E64E1590000000000004EAD
+t1315234137
+s20141
+
+N/Users/kirk/Documents/Projects/TicketBreakScanner/TicketBreakScannerViewController.xib
+c000000004E64E1DF0000000000005C76
+t1315234271
+s23670
+
+N/Users/kirk/Documents/Projects/TicketBreakScanner/TicketBreakScanner_Prefix.pch
+c000000004E64E15900000000000000CD
+t1315234137
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app
+t1315234284
+s238
+
+N/Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app.dSYM
+t1315234284
+s102
+
+N/Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app/Info.plist
+t1315234281
+s641
+
+N/Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app/MainWindow.nib
+t1315234282
+s1703
+
+N/Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app/PkgInfo
+t1315234281
+s8
+
+N/Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app/TicketBreakScanner
+t1315234284
+s17704
+
+N/Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app/TicketBreakScannerViewController.nib
+t1315234282
+s4087
+
+N/Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/Objects-normal/i386/TicketBreakScanner.LinkFileList
+c000000004E64E1E90000000000000206
+t1315234281
+s518
+
+N/Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/Objects-normal/i386/TicketBreakScannerAppDelegate.o
+t1315234283
+s51964
+
+N/Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/Objects-normal/i386/TicketBreakScannerViewController.o
+t1315234283
+s38200
+
+N/Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/Objects-normal/i386/main.o
+t1315234283
+s6332
+
+N/Users/kirk/Documents/Projects/TicketBreakScanner/main.m
+c000000004E64E1590000000000000177
+t1315234137
+s375
+i<UIKit/UIKit.h>
+
+N/var/folders/UC/UCNl4HGDF0CHuuQrqLmmfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TicketBreakScanner_Prefix-cpzqkpxpvifznadyppfrdcuperbr/TicketBreakScanner_Prefix.pch.gch
+t1315234283
+s15814064
+
+NTicketBreakScanner-Info.plist
+c000000004E64E159000000000000038D
+t1315234137
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies336927081#336927081#0(0"0(0#1#0"8619542400#0"0#
+
+CCompileC build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/Objects-normal/i386/TicketBreakScannerAppDelegate.o /Users/kirk/Documents/Projects/TicketBreakScanner/Classes/TicketBreakScannerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s336927083.798438
+e336927083.955109
+r1
+xCompileC
+xbuild/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/Objects-normal/i386/TicketBreakScannerAppDelegate.o
+x/Users/kirk/Documents/Projects/TicketBreakScanner/Classes/TicketBreakScannerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/kirk/Documents/Projects/TicketBreakScanner/Classes/TicketBreakScannerAppDelegate.m336927083#336927083#0(0"0(0#0#89"/Users/kirk/Documents/Projects/TicketBreakScanner/Classes/TicketBreakScannerAppDelegate.m8602197696#2313"    cd /Users/kirk/Documents/Projects/TicketBreakScanner    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/TicketBreakScanner-generated-files.hmap -I/Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/TicketBreakScanner-own-target-headers.hmap -I/Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/TicketBreakScanner-all-target-headers.hmap -iquote /Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/TicketBreakScanner-project-headers.hmap -F/Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator -I/Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/include -I/Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/DerivedSources/i386 -I/Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/DerivedSources -include /var/folders/UC/UCNl4HGDF0CHuuQrqLmmfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TicketBreakScanner_Prefix-cpzqkpxpvifznadyppfrdcuperbr/TicketBreakScanner_Prefix.pch -c /Users/kirk/Documents/Projects/TicketBreakScanner/Classes/TicketBreakScannerAppDelegate.m -o /Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/Objects-normal/i386/TicketBreakScannerAppDelegate.o0#
+
+CCompileC build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/Objects-normal/i386/TicketBreakScannerViewController.o /Users/kirk/Documents/Projects/TicketBreakScanner/Classes/TicketBreakScannerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s336927083.887433
+e336927083.985309
+r1
+xCompileC
+xbuild/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/Objects-normal/i386/TicketBreakScannerViewController.o
+x/Users/kirk/Documents/Projects/TicketBreakScanner/Classes/TicketBreakScannerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/kirk/Documents/Projects/TicketBreakScanner/Classes/TicketBreakScannerViewController.m336927083#336927083#0(0"0(0#0#92"/Users/kirk/Documents/Projects/TicketBreakScanner/Classes/TicketBreakScannerViewController.m8624023296#2319"    cd /Users/kirk/Documents/Projects/TicketBreakScanner    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/TicketBreakScanner-generated-files.hmap -I/Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/TicketBreakScanner-own-target-headers.hmap -I/Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/TicketBreakScanner-all-target-headers.hmap -iquote /Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/TicketBreakScanner-project-headers.hmap -F/Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator -I/Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/include -I/Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/DerivedSources/i386 -I/Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/DerivedSources -include /var/folders/UC/UCNl4HGDF0CHuuQrqLmmfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TicketBreakScanner_Prefix-cpzqkpxpvifznadyppfrdcuperbr/TicketBreakScanner_Prefix.pch -c /Users/kirk/Documents/Projects/TicketBreakScanner/Classes/TicketBreakScannerViewController.m -o /Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/Objects-normal/i386/TicketBreakScannerViewController.o0#
+
+CCompileC build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/Objects-normal/i386/main.o /Users/kirk/Documents/Projects/TicketBreakScanner/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s336927083.797136
+e336927083.887316
+r1
+xCompileC
+xbuild/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/Objects-normal/i386/main.o
+x/Users/kirk/Documents/Projects/TicketBreakScanner/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/kirk/Documents/Projects/TicketBreakScanner/main.m336927083#336927083#0(0"0(0#0#56"/Users/kirk/Documents/Projects/TicketBreakScanner/main.m8611465888#2255"    cd /Users/kirk/Documents/Projects/TicketBreakScanner    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/TicketBreakScanner-generated-files.hmap -I/Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/TicketBreakScanner-own-target-headers.hmap -I/Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/TicketBreakScanner-all-target-headers.hmap -iquote /Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/TicketBreakScanner-project-headers.hmap -F/Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator -I/Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/include -I/Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/DerivedSources/i386 -I/Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/DerivedSources -include /var/folders/UC/UCNl4HGDF0CHuuQrqLmmfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TicketBreakScanner_Prefix-cpzqkpxpvifznadyppfrdcuperbr/TicketBreakScanner_Prefix.pch -c /Users/kirk/Documents/Projects/TicketBreakScanner/main.m -o /Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/kirk/Documents/Projects/TicketBreakScanner/MainWindow.xib
+s336927081.744087
+e336927082.374243
+r1
+xCompileXIB
+x/Users/kirk/Documents/Projects/TicketBreakScanner/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib336927081#336927082#0(0"0(0#0#64"/Users/kirk/Documents/Projects/TicketBreakScanner/MainWindow.xib8619027552#614"    cd /Users/kirk/Documents/Projects/TicketBreakScanner    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app/MainWindow.nib /Users/kirk/Documents/Projects/TicketBreakScanner/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/kirk/Documents/Projects/TicketBreakScanner/TicketBreakScannerViewController.xib
+s336927081.744879
+e336927082.516553
+r1
+xCompileXIB
+x/Users/kirk/Documents/Projects/TicketBreakScanner/TicketBreakScannerViewController.xib
+lSLF07#2@47"CompileXIB TicketBreakScannerViewController.xib336927081#336927082#0(0"0(0#0#86"/Users/kirk/Documents/Projects/TicketBreakScanner/TicketBreakScannerViewController.xib8618767328#658"    cd /Users/kirk/Documents/Projects/TicketBreakScanner    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app/TicketBreakScannerViewController.nib /Users/kirk/Documents/Projects/TicketBreakScanner/TicketBreakScannerViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app.dSYM /Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app/TicketBreakScanner
+s336927084.062727
+e336927084.095334
+r1
+xGenerateDSYMFile
+x/Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app.dSYM
+x/Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app/TicketBreakScanner
+lSLF07#2@142"GenerateDSYMFile build/Debug-iphonesimulator/TicketBreakScanner.app.dSYM build/Debug-iphonesimulator/TicketBreakScanner.app/TicketBreakScanner336927084#336927084#0(0"0(0#0#119"/Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app/TicketBreakScanner8620012192#449"    cd /Users/kirk/Documents/Projects/TicketBreakScanner    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app/TicketBreakScanner -o /Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app.dSYM0#
+
+CLd /Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app/TicketBreakScanner normal i386
+s336927083.985418
+e336927084.062611
+r1
+xLd
+x/Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app/TicketBreakScanner
+xnormal
+xi386
+lSLF07#2@124"Link /Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app/TicketBreakScanner336927083#336927084#0(0"0(0#0#0"8620283392#1010"    cd /Users/kirk/Documents/Projects/TicketBreakScanner    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator -F/Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator -filelist /Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/Objects-normal/i386/TicketBreakScanner.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app/TicketBreakScanner0#
+
+CProcessInfoPlistFile /Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app/Info.plist TicketBreakScanner-Info.plist
+s336927081.740149
+e336927081.743999
+r1
+xProcessInfoPlistFile
+x/Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app/Info.plist
+xTicketBreakScanner-Info.plist
+lSLF07#2@37"Process TicketBreakScanner-Info.plist336927081#336927081#0(0"0(0#0#79"/Users/kirk/Documents/Projects/TicketBreakScanner/TicketBreakScanner-Info.plist8619726528#545"    cd /Users/kirk/Documents/Projects/TicketBreakScanner    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TicketBreakScanner-Info.plist -genpkginfo /Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app/Info.plist0#
+
+CProcessPCH /var/folders/UC/UCNl4HGDF0CHuuQrqLmmfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TicketBreakScanner_Prefix-cpzqkpxpvifznadyppfrdcuperbr/TicketBreakScanner_Prefix.pch.gch TicketBreakScanner_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s336927082.516806
+e336927083.796933
+r1
+xProcessPCH
+x/var/folders/UC/UCNl4HGDF0CHuuQrqLmmfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TicketBreakScanner_Prefix-cpzqkpxpvifznadyppfrdcuperbr/TicketBreakScanner_Prefix.pch.gch
+xTicketBreakScanner_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile TicketBreakScanner_Prefix.pch336927082#336927083#0(0"0(0#0#79"/Users/kirk/Documents/Projects/TicketBreakScanner/TicketBreakScanner_Prefix.pch8623211136#2125"    cd /Users/kirk/Documents/Projects/TicketBreakScanner    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/TicketBreakScanner-generated-files.hmap -I/Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/TicketBreakScanner-own-target-headers.hmap -I/Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/TicketBreakScanner-all-target-headers.hmap -iquote /Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/TicketBreakScanner-project-headers.hmap -F/Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator -I/Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/include -I/Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/DerivedSources/i386 -I/Users/kirk/Documents/Projects/TicketBreakScanner/build/TicketBreakScanner.build/Debug-iphonesimulator/TicketBreakScanner.build/DerivedSources -c /Users/kirk/Documents/Projects/TicketBreakScanner/TicketBreakScanner_Prefix.pch -o /var/folders/UC/UCNl4HGDF0CHuuQrqLmmfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TicketBreakScanner_Prefix-cpzqkpxpvifznadyppfrdcuperbr/TicketBreakScanner_Prefix.pch.gch0#
+
+CTouch /Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app
+s336927084.095426
+e336927084.103259
+r1
+xTouch
+x/Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app
+lSLF07#2@106"Touch /Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app336927084#336927084#0(0"0(0#0#0"8619849312#311"    cd /Users/kirk/Documents/Projects/TicketBreakScanner    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/kirk/Documents/Projects/TicketBreakScanner/build/Debug-iphonesimulator/TicketBreakScanner.app0#
+
